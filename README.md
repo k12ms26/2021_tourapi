@@ -7,7 +7,7 @@
 ##### 사용한 프로그래밍 언어: React Native, Node.js, MySQL
 
 <br>
-<img src="https://user-images.githubusercontent.com/61970111/160128008-466e5790-f961-4394-9b59-42fbb1618630.png" width="600" height="400" />
+<img src="https://user-images.githubusercontent.com/61970111/160128008-466e5790-f961-4394-9b59-42fbb1618630.png" width="480" height="350" />
 
 - [X] [한국관광공사 X 카카오] 2021 관광데이터 활용 공모전 제품/서비스 개발 부문 장려상 (4위) 수상
 - [X] JavaScript (React Native 사용) 기반 '소셜 네트워킹 큐레이션 서비스 [히든쥬얼 Here.] 개발
